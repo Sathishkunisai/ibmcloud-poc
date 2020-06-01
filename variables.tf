@@ -3,7 +3,7 @@ variable "app_version" {
 }
 
 variable "git_repo" {
-  default = "https://github.com/karthick9500/ibm-nodejs-sample.git"
+  default = "https://github.com/k/ibm-nodejs-sample.git"
 }
 
 variable "dir_to_clone" {
@@ -20,7 +20,7 @@ variable "space_name" {
 
 
 variable "org_name" {
-  default = "sathishkumar.ramaswamy@cognizant.com"
+  default = "sathishkumar.ramaswamy@co.com"
 }
 
 
